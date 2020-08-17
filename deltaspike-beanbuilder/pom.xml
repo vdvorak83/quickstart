@@ -49,7 +49,7 @@
         <version.arquillian.container>8.0.0.Final</version.arquillian.container>
 
 
-        <version.deltaspike.core>0.6</version.deltaspike.core>
+        <version.deltaspike.core>0.7</version.deltaspike.core>
     </properties>
 
     <dependencyManagement>
