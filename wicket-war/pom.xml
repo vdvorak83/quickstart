@@ -54,8 +54,8 @@
 
 
         <!-- Other dependency versions -->
-        <version.org.apache.wicket>1.5.5</version.org.apache.wicket>
-        <version.net.ftlines.wicket-cdi>1.2</version.net.ftlines.wicket-cdi>
+        <version.org.apache.wicket>1.5.11</version.org.apache.wicket>
+        <version.net.ftlines.wicket-cdi>6.0</version.net.ftlines.wicket-cdi>
 
         <!-- other plugin versions -->
         <version.compiler.plugin>3.1</version.compiler.plugin>
