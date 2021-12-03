@@ -55,7 +55,7 @@
 
 
         <version.deltaspike.core>0.6</version.deltaspike.core>
-        <version.picketlink>2.6.0.CR1</version.picketlink>
+        <version.picketlink>2.7.1.Final</version.picketlink>
     </properties>
 
     <dependencyManagement>
