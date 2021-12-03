@@ -50,7 +50,7 @@
 
 
         <!-- Other dependency versions -->
-        <version.dom4j>1.6</version.dom4j>
+        <version.dom4j>1.6.1</version.dom4j>
 
         <!-- other plugin versions -->
         <version.compiler.plugin>3.1</version.compiler.plugin>
